@@ -8,3 +8,16 @@ This is a simple Python script that generates strong random passwords using uppe
 - Simple command-line interface
 
 ## Example Output
+Generated password: W@9pLt#5aZ
+
+## 🚀 How to Run
+1. Make sure you have Python installed.
+2. Clone this repository or copy the script.
+3. Run the script using:
+```bash
+python password_generator.py
+
+📚 What I Learned
+	•	How to use Python’s random and string modules
+	•	How to build command-line interactions
+	•	Basics of secure password generation and entropy
